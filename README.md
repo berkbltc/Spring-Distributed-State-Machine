@@ -3,7 +3,7 @@ A Distributed and Persisting State Machine implementation using Spring State Mac
 
 Installation<br/>
 -As it is a Maven project, don't forget to install Maven.<br/>
--For setup zookeepers with curator look at : https://github.com/DogukanKundum/HostMngOnCurator<br/>
+-To setup zookeepers with curator look at : https://github.com/DogukanKundum/HostMngOnCurator<br/>
 -Cd to zookeeper/bin and type ./zkServer.sh start (for Linux) for all zookeepers you want to start.(It needs at least 3 zookepers to work)<br/>
 -Example application.properties for 3 apps
 
