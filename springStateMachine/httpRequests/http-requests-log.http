@@ -1,8 +1,0 @@
-GET http://localhost:9090/events/{eventName}
-
-###
-
-GET http://localhost:9090/events/{eventName}
-
-###
-
